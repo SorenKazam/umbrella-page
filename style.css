@@ -88,7 +88,7 @@ label span {
     margin-right: 10px;
 }
 
-input[type="text"], textarea {
+input[type="text"], input[type="password"] {
     width: 200px;
 }
 
